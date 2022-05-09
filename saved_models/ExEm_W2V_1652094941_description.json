@@ -1,0 +1,1 @@
+{"dataset": "Inspec", "preprocesser": "BERT", "model": "W2V", "remove_stopwords": false, "remove_punctuation": false, "window_size": 10, "epochs": 10, "num_walks_per_node": 10, "walk_length": 80, "embedding_dimension": 128, "save_directory": "saved_models"}
